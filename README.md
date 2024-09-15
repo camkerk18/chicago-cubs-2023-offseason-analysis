@@ -1,6 +1,10 @@
 # Project Description
 
-This repository contains the analysis of the Chicago Cubs 2023 Offseason by examining their 2022 performance through the use of run differential, on-base percentage (OBP), and earned run average (ERA). Current roster (2022), pending free agents, possible acquisitions, and financial constraint were used to project the Chicago Cubs roster for the 2023 season. Minimal projected improvement in win total was found, thus concluding in a likely failure to reach the postseason. 
+Created: December 2022
+
+This repository contains the analysis of the Chicago Cubs 2023 Offseason by examining their 2022 performance through the use of run differential, on-base percentage (OBP), and earned run average (ERA). Current roster (2022), pending free agents, possible acquisitions, and financial constraint were used to project the Chicago Cubs roster for the 2023 season. Minimal projected improvement in win total was found, thus concluding in a likely failure to reach the postseason.
+
+Data was collected from various sources that can be found in the citations below. Data analysis completed using Python in a Jupiter Notebook.
 
 Citations:
 
